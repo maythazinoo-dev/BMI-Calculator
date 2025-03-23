@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI Calculator", "BMI Calcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowMonth", "ShowMonth\ShowMonth.csproj", "{D8BDCB5F-DA87-471E-BE48-9BC6C8B23937}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range Calculator", "Range Calculator\Range Calculator.csproj", "{0E4AD3CE-6C8D-4CEE-B188-5F6B9BE2B8AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D8BDCB5F-DA87-471E-BE48-9BC6C8B23937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8BDCB5F-DA87-471E-BE48-9BC6C8B23937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8BDCB5F-DA87-471E-BE48-9BC6C8B23937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4AD3CE-6C8D-4CEE-B188-5F6B9BE2B8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4AD3CE-6C8D-4CEE-B188-5F6B9BE2B8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4AD3CE-6C8D-4CEE-B188-5F6B9BE2B8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4AD3CE-6C8D-4CEE-B188-5F6B9BE2B8AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
